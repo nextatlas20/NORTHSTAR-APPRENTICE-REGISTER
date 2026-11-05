@@ -1,0 +1,11 @@
+apprentice_id	name	track	module	valid_attempts	latest_two_outcomes	status
+AP-101	Inez Vale	rigging	KNOTS	2	PASS+PASS	CERTIFIED
+AP-101	Inez Vale	rigging	LOADS	2	PASS+PASS	CERTIFIED
+AP-102	Bo Chen	electrics	CIRCUITS	2	PASS+PASS	CERTIFIED
+AP-102	Bo Chen	electrics	LOCKOUT	3	PASS+PASS	CERTIFIED
+AP-103	Nia Rao	rigging	KNOTS	3	PASS+PASS	CERTIFIED
+AP-103	Nia Rao	rigging	LOADS	2	PASS+FAIL	RETAKE_REQUIRED
+AP-104	Omar Bell	carpentry	MEASURE	2	PASS+PASS	CERTIFIED
+AP-104	Omar Bell	carpentry	CUTS	0	-	INSUFFICIENT_EVIDENCE
+AP-105	Lea Frost	electrics	CIRCUITS	2	PASS+PASS	CERTIFIED
+AP-105	Lea Frost	electrics	LOCKOUT	2	FAIL+PASS	RETAKE_REQUIRED
