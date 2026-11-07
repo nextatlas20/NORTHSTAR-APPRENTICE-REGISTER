@@ -1,0 +1,4 @@
+apprentice_id	name	track	reason	required_modules	unresolved_modules
+AP-103	Nia Rao	rigging	RETAKE_REQUIRED	KNOTS+LOADS	LOADS
+AP-104	Omar Bell	carpentry	INSUFFICIENT_EVIDENCE	MEASURE+CUTS	CUTS
+AP-105	Lea Frost	electrics	RETAKE_REQUIRED	CIRCUITS+LOCKOUT	LOCKOUT
